@@ -1,0 +1,300 @@
+
+body{
+    background-color: rgb(247, 248, 250);
+}
+
+header{
+    position: relative;
+    bottom:23px;
+    background-image: url("Picsart_25-04-28_19-15-55-571.jpg");
+    background-size:contain;
+    height: 150px;
+  
+   
+}
+
+.head{
+    
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top:-50px  
+    
+}
+
+#title{
+    
+}
+#book{
+    text-align: center;
+    
+    position: relative;
+    top:-9px;
+    border-radius: 20px;
+}
+#main{
+border: 2px solid rgb(247, 243, 243);
+border-radius: 20px;
+background-color:white;
+position: relative;
+top: -10px;
+left: 550px;
+width: 650px;
+height: 900px;
+}
+
+#info{
+    border: 5px solid white;
+    background-color: rgb(230, 173, 67);
+    position: relative;
+    right:550px;
+    bottom:900px;
+    width: 520px;
+    height: 700px;}
+
+
+     #name{
+        display: inline-block;
+        padding-left: 310px;
+    
+      
+     }
+     #Email{
+        padding-left: 310Px;
+        padding-top: 20px;
+
+     }
+
+     #phone{
+        padding-left: 310px;
+        padding-top: 15px;
+     }
+
+     #dob{
+       padding: 3px;
+       margin-left: 40px;
+       margin-top: 10px;
+       border-radius: 30px;
+
+       
+     }
+
+     #GENDER{
+        width: 280px;
+        padding-left: 40px;
+        padding-top: 0px;
+        padding-bottom: 5px;
+        background-color: aliceblue;
+     }
+
+     #nation{
+        width: 278px;
+        padding-left: 43px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: relative;
+        top:10px;
+        background-color: aliceblue;
+
+     }
+     #add_headng{
+        position: relative;
+        left:43px;
+        top:10px;
+        
+    
+     }
+
+     #add{
+        padding-top: 60px;
+        display: inline;
+       position: relative;
+       left:43px;
+     }
+                 #street{
+                    height: 20px;
+                    width: 300px;
+                    border-radius: 10px;
+                    position: relative;
+                    left: 5px;
+                 }
+                 #state{
+                    height: 20px;
+                    width: 300px;
+                    border-radius: 10px;
+                    position: relative;
+                    left: 10px;
+                 }
+                 #company{
+                    height: 20px;
+                    width: 300px;
+                    border-radius: 10px;
+                    position: relative;
+                    left: 5px;
+                 }
+                 #zip_code{
+                    height: 20px;
+                    width: 300px;
+                    border-radius: 10px;
+                    position: relative;
+                    left: 5px;
+                 }
+    
+
+     #travel_heading{
+        position: relative;
+        left:43px;
+        top:-3px;
+     }
+
+     #preferences{
+        position: relative;
+       left:43px;
+       top:-20px
+        
+     }
+               #preferred_Accommodation{
+                height: 20px;
+                    width: 300px;
+                    border-radius: 10px;
+                    position: relative;
+                    left: 5px;
+
+               }
+            
+
+     #Accommodation_heading{
+        position: relative;
+        left:43px;
+        top:-20px;
+     }
+
+     #Accommodation{
+        position: relative;
+       left:43px;
+       top:-35px;
+       
+        
+     }
+
+     #meal_heading{
+        position: relative;
+        left:43px;
+        top:-35px;
+     }
+           
+
+     #meal{
+        position: relative;
+       left:43px;
+       top:-45px;
+        
+     }   
+     #Type_of_meal{
+        height: 20px;
+        width: 300px;
+        border-radius: 10px;
+        position: relative;
+        left: 5px;
+     }
+
+     #terms{
+         text-align: center;
+         background-color: hsl(208, 100%, 97%);
+         position: relative;
+         top:-30px;
+     }
+     
+     #button{
+        text-align: center;
+        position: relative;
+        top:-30px;
+       
+        
+     }
+
+
+     #email{
+        height: 20px;
+        width:300px;
+        border-radius: 10px;
+     }
+     #tel{
+        height: 20px;
+        width:300px;
+        border-radius: 10px;
+     }
+     #name1{
+        height: 20px;
+        width:300px;
+        border-radius: 10px;
+
+     }
+     #dob1{
+        width:120px;
+    
+     }
+
+     #hrline{
+        position: relative;
+        top:-15px;
+     }
+
+     #heading_div{
+        display:flex;
+        flex-direction: row;
+        background-color: rgb(230, 173, 67);
+        position: relative;
+        top:-23px;
+       
+     }
+     #small_tags{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-evenly;      
+        position: relative;
+        left:750px;
+        top:-70px;
+        height: 30px;
+        width: 500px;
+     }
+
+     #quote{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-size: larger;
+     }
+
+     #p1{
+        font-size: large;
+     }
+
+     #p2{
+        font-size: large;
+     }
+     #image{
+        background-color: rgb(20, 22, 22);
+        height: 130px;
+        width: 130px;
+        position: relative;
+        bottom: 1550px;
+        left: 60px;
+        border-radius: 50%;
+     }
+     
+     
+        a img{
+        height: 20px;
+        width: 20px;
+        }
+        #foot{
+            text-align: center;
+        }
+        #logo{
+            height: 150px;
+            width: 150px;
+        }
+
+   
+    
